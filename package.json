@@ -1,0 +1,48 @@
+{
+  "name": "cashcow",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@faker-js/faker": "^7.6.0",
+    "@types/node": "18.14.6",
+    "@types/react": "18.0.28",
+    "@types/react-dom": "18.0.11",
+    "antd": "^5.3.0",
+    "axios": "^1.3.4",
+    "babel-plugin-styled-components": "^2.0.7",
+    "eslint-config-next": "13.2.3",
+    "immer": "^9.0.19",
+    "next": "13.2.3",
+    "next-redux-wrapper": "^8.1.0",
+    "prop-types": "^15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "^8.0.5",
+    "react-slick": "^0.29.0",
+    "redux": "^4.2.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-saga": "^1.2.3",
+    "shortid": "^2.2.16",
+    "styled-components": "^5.3.8",
+    "tui-grid": "^4.21.9",
+    "typescript": "4.9.5"
+  },
+  "devDependencies": {
+    "@types/react-slick": "^0.23.10",
+    "@types/shortid": "^0.0.29",
+    "@types/styled-components": "^5.1.26",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.35.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0"
+  }
+}

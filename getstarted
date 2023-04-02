@@ -1,0 +1,29 @@
+npx create-next-app --typescript 로 프로젝트 생성
+
+npm i eslint -D
+npm i eslint-plugin-import -D
+npm i eslint-plugin-react-hooks -D
+npm i eslint-plugin-react -D    
+
+antd , styled-components 설치
+npm i antd styled-components @ant-design/icons
+
+npm i babel-plugin-styled-components
+npm i next-redux-wrapper
+npm i redux
+npm i react-redux
+npm i redux-devtools-extension
+npm i react-slick
+npm i redux-saga
+
+npm i -D babel-eslint eslint-config-airbnb eslint-plugin-import
+npm i -D eslint-plugin-react-hooks
+
+npm i shortid
+npm i @faker-js/faker
+
+npm i immer
+
+//grid
+npm install --save tui-grid 
+
